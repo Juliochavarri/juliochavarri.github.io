@@ -10,7 +10,7 @@ OUTPUT_PATH = 'docs/'
 
 TIMEZONE = 'America/Lima'
 
-DEFAULT_LANG = 'Es'
+DEFAULT_LANG = 'es'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
